@@ -16,4 +16,4 @@ This repo contains already some files and folders that should stay here for conf
 │   └── settings.json 				# vscode settings mostly for formatting
 ├── LICENSE 							# license file currently MIT license choosealicense.com
 └── README.md 						# this file - duh
-```
+
